@@ -36,3 +36,9 @@ Please refer to the project's style and contribution guidelines for submitting p
  5. Submit a **Pull request** so that we can review your changes
  
  ### Please abide by  **Contributing Guidelines** and **Code of Conduct**.
+ 
+ ## License
+
+MIT License.
+Check out [LICENSE](./LICENSE) for more detail.
+
